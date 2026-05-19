@@ -74,22 +74,3 @@ This project develops a flood prediction model for Dhemaji district, one of the 
 
 ---
 
-## Repository Structure
-
-```text
-dhemaji-flood-prediction/
-├── README.md
-├── requirements.txt
-├── notebooks/
-│   ├── 01_data_collection_gee.ipynb
-│   ├── 02_data_processing.ipynb
-│   ├── 03_eda.ipynb
-│   ├── 04_model_training.ipynb
-│   ├── 05_final_model_evaluation.ipynb
-│   └── 06_visualizations.ipynb
-├── data/
-│   ├── raw/
-│   └── processed/
-├── models/
-├── results/
-└── figures/
